@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Ameena
 
 Experienced **Executive Assistant**, **Office Admin**, and **HR Assistant** with over 7 years of success supporting senior leadership, managing office operations, and coordinating HR and administrative functions. I bring a proactive approach to executive support, calendar management, recruitment coordination, and financial administration — all while maintaining confidentiality and ensuring smooth day-to-day operations.
@@ -22,7 +23,7 @@ Here are some examples of my work that I plan to showcase on GitHub:
 
 
 - 📊 **Excel Dashboards**: [HR_Leave_Tracker.xlsx](https://github.com/user-attachments/files/23477706/HR_Leave_Tracker.xlsx)
--   payroll summary, daily attendence and monthly expense reports  
+-  [Payroll Calculation.xlsx](https://github.com/user-attachments/files/23478068/Payroll.Calculation.xlsx), daily attendence and monthly expense reports  
 - 🗂️ **Office Workflow Templates**: Onboarding checklist, procurement tracker, and meeting agenda templates
 
 ---
