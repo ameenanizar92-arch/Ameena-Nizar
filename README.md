@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ameena
 
-Experienced **Executive Assistant**, **Office Admin**, and **HR Assistant** with over 7 years of success supporting senior leadership, managing office operations, and coordinating HR and administrative functions. I bring a proactive approach to executive support, calendar management, recruitment coordination, and financial administration — all while maintaining confidentiality and ensuring smooth day-to-day operations.
+Experienced **Executive Assistant**, **Office Admin**,**Operations Manager** and **HR & Accounts Assistant** with over 7 years of success supporting senior leadership, managing office operations, and coordinating HR and administrative functions. I bring a proactive approach to executive support, calendar management, recruitment coordination, and financial administration — all while maintaining confidentiality and ensuring smooth day-to-day operations.
 
 ---
 
