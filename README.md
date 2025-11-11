@@ -20,8 +20,7 @@ Experienced **Executive Assistant**, **Office Manager**, and **HR Assistant** wi
 
 Here are some examples of my work that I plan to showcase on GitHub:
 
-- 📊 **Excel Dashboards**: HR leave tracker, payroll summary, and monthly expense reports  
-- 📈 **Power BI Reports**: Employee performance dashboards and operational KPIs  
+- 📊 **Excel Dashboards**: HR leave tracker, payroll summary, daily attendence and monthly expense reports  
 - 🗂️ **Office Workflow Templates**: Onboarding checklist, procurement tracker, and meeting agenda templates
 
 ---
