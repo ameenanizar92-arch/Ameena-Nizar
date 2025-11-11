@@ -22,9 +22,12 @@ Experienced **Executive Assistant**, **Office Admin**, and **HR Assistant** with
 Here are some examples of my work that I plan to showcase on GitHub:
 
 
-- 📊 **Excel Dashboards**: [HR_Leave_Tracker.xlsx](https://github.com/user-attachments/files/23477706/HR_Leave_Tracker.xlsx)
--  [Payroll Calculation.xlsx](https://github.com/user-attachments/files/23478068/Payroll.Calculation.xlsx), daily attendence and monthly expense reports  
-- 🗂️ **Office Workflow Templates**: Onboarding checklist, procurement tracker, and meeting agenda templates
+- 📊 **Excel Dashboards**: [HR_Leave_Tracker.xlsx](https://github.com/user-attachments/files/23477706/HR_Leave_Tracker.xlsx), [Payroll Calculation.xlsx](https://github.com/user-attachments/files/23478068/Payroll.Calculation.xlsx), [Daily_Attendance_Tracker.xlsx](https://github.com/user-attachments/files/23485028/Daily_Attendance_Tracker.xlsx)
+ and monthly expense reports  
+- 🗂️ **Office Workflow Templates**:  [Onboarding_Checklist.xlsx](https://github.com/user-attachments/files/23484828/Onboarding_Checklist.xlsx) , [Procurement_Tracker.xlsx](https://github.com/user-attachments/files/23484823/Procurement_Tracker.xlsx)
+, and [Meeting_Agenda_Template.xlsx](https://github.com/user-attachments/files/23485046/Meeting_Agenda_Template.xlsx)
+
+
 
 ---
 
